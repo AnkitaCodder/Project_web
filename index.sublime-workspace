@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proper",
+				"Property"
+			],
+			[
+				"_S",
+				"$_SESSION"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"us",
+				"userid"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"side",
+				"sidebar-link"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ho",
+				"house-info"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fl",
+				"flex-basis"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"gr",
+				"grid-gap"
+			],
+			[
+				"auo",
+				"auto-fit"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"s",
+				"scaleY()"
+			],
+			[
+				"bt",
+				"button"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"l",
+				"flex-start"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"la",
+				"applet"
+			],
+			[
+				"b",
+				"box-sizing"
+			],
+			[
+				"bord",
+				"border-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "a=32\nb=21\nprint(\"The sum of a and b is\",a+b)",
+			"file": "/C/Users/ANKITA/Desktop/PYTHON/addition.py",
+			"file_size": 46,
+			"file_write_time": 133013032607298709,
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ANKITA/Desktop/PYTHON/addition",
+		"/D/wamp/www/mess/catagory.php",
+		"/D/wamp/www/mess/css or.css",
+		"/C/Users/ANKITA/Desktop/project/css or.css",
+		"/D/wamp/www/mess/login.php",
+		"/D/wamp/www/mess/conn.php",
+		"/D/wamp/www/mess/Admin.php",
+		"/D/wamp/www/mess/css admin.css",
+		"/D/wamp/www/mess/welcome.php",
+		"/D/wamp/www/mess/admin dash.php",
+		"/D/wamp/www/mess/index.php",
+		"/D/wamp/www/mess/find.php",
+		"/D/wamp/www/mess/catagory ca.css",
+		"/D/wamp/www/mess/style.css",
+		"/D/wamp/www/FULL/index.php",
+		"/D/wamp/www/FULL/index3.php",
+		"/D/wamp/www/mess/logout.php",
+		"/D/wamp/www/mess/css.css",
+		"/D/wamp/www/mess/signup_ac.php",
+		"/C/Users/ANKITA/Desktop/project/style.css",
+		"/D/wamp/www/mess/js.js",
+		"/D/wamp/www/mess/about.php",
+		"/D/wamp/www/mess/css A.css",
+		"/C/Users/ANKITA/Desktop/project/cat modi.css",
+		"/C/Users/ANKITA/Desktop/project/cat modi.html",
+		"/C/Users/ANKITA/Desktop/project/css A.css",
+		"/C/Users/ANKITA/Desktop/project/about us.html",
+		"/C/Users/ANKITA/Desktop/project/catagories.html",
+		"/C/Users/ANKITA/Desktop/project/css ca.css",
+		"/C/Users/ANKITA/Desktop/project/find.html",
+		"/C/Users/ANKITA/Desktop/project/index.html",
+		"/C/Users/ANKITA/Downloads/SAB_Tool_v_20211025/Windows 10/SAB-Proctor.exe",
+		"/D/wamp/www/mess/login2.php",
+		"/C/Users/ANKITA/Desktop/project/login.html",
+		"/C/Users/ANKITA/Desktop/project/login or.php",
+		"/C/Users/ANKITA/Desktop/project/conn or.php",
+		"/C/Users/ANKITA/Desktop/project/index or.php",
+		"/D/wamp/www/mess/signup.php",
+		"/D/wamp/www/mess/style(2).css",
+		"/D/wamp/www/mess/index.html",
+		"/D/wamp/www/mess/css/hover.css",
+		"/D/wamp/www/index.php",
+		"/D/wamp/www/mess/style1.css",
+		"/D/wamp/www/mess/login 1.php",
+		"/D/wamp/www/Hover-master/Hover-master/index.html"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"right",
+			"center",
+			"nav",
+			"Find",
+			"5",
+			";\n",
+			"40px",
+			"}",
+			"shu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ANKITA/Desktop/PYTHON/addition.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

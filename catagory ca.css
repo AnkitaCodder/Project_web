@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	background-color: #FFF0F5;
+}
+.list-container{
+	margin-top: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.left-col{
+	flex-basis: 70%;
+}
+.right-col{
+	flex-basis: 25%;
+}
+.left-col h1{
+	color: #333;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+.house{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding: 30px 0;
+	border-top: 1px solid #ccc;
+}
+.house-img{
+	flex-basis: 40%;
+}
+.house-info{
+	flex-basis: 58%;
+	color: #555;
+}
+.house-img img{
+	width: 100%;
+	border-radius: 12px;
+}
+.house-info h3{
+	font-weight: 600;
+	color: #333;
+	font-size: 22px;
+	margin: 4px 0;
+
+}
+.house-info i{
+	color: #ff5361;
+	font-size: 18px;
+	margin: 10px 1px;
+}
+.house-price{
+	text-align: right;
+}
+.house-price h4{
+	font-size: 20px;
+}
+.house-price h4 span{
+	font-size: 16px;
+	font-weight: 500;
+}
+.sidebar{
+	border: 1px solid #999;
+	padding: 20px 30px;
+	margin-top: 30px;
+	background: #7FFFD4;
+}
+.sidebar h2{
+	font-weight: 500;
+}
+.sidebar h3{
+	font-weight: 500;
+	margin: 20px 0 10px;
+}
+.sidebar-link{
+	margin: 20px 0;
+}
+.sidebar-link a{
+	text-decoration: none;
+	color: #000000;
+}
+.filter{
+	display: flex;
+	align-items: center;
+	color: #555;
+	margin-bottom: 10px;
+}
+.filter p{
+	flex: 1;
+}
+.filter input{
+	margin-right: 15px;
+	cursor: pointer;
+
+}
+.button{
+	margin-top: 80px;
+    width: calc(100% + 24px);
+    background-color:  #FFF0F5;
+    padding: 16px 0 8px;
+    padding-right: 20px;
+    border-radius: 8px;
+    border-top: 1px solid  #D3D3D3;
+    text-align: right;
+}
+.button a{
+	background: #556B2F;
+	padding: 12px 40px;
+	text-decoration: none;
+	color: #fff;
+	font-size: 25px;
+	letter-spacing: 1.5px;
+}
+.nav{
+    float: center;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 18px;
+    position: relative;
+    background-color: #fff;
+}
+.nav_links {
+      background: #fff;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.05);
+      align-content: center;
+}
+
+.nav_links li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px 30px;
+}
+.nav_links li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 0;
+}
+.nav_links li::after{
+    content: '';
+    width: 50%;
+    height: 2px;
+    background: #f44336;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
